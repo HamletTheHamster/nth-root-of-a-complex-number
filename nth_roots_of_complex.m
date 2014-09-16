@@ -27,4 +27,4 @@ for j = 1:n                         %compute roots and assign to array
     hold on
 end
 
-
+hold off
