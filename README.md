@@ -7,4 +7,4 @@ the roots in a polar plane.
 inputs:		x, y, n
 
 outputs:  -all roots, both real and complex, in a column vector. Number of roots equal to n. 
-        	-polar graph of roots
+          -polar graph of roots
