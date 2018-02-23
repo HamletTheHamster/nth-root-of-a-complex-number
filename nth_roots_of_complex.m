@@ -1,6 +1,6 @@
 function [ roots ] = nth_roots_of_complex( x, y, n )
 
-%This function computes the nth roots of a user-defined complex number 
+%This function computes all the nth roots of a user-defined complex number 
 % in z = x + iy form. In other words, this program finds all roots of 
 % the equation (x + iy)^(1/n) when x, y, and n are given.
 %
